@@ -5,4 +5,5 @@ package com.toyproject.model;
  */
 public abstract class Hello {
     protected static final HelloTextAdapter HELLO_TEXT = HelloTextAdapter.THE_HELLO_WORLD;
+
 }
